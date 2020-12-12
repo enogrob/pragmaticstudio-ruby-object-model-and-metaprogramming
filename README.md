@@ -18,14 +18,14 @@ Metaprogramming lets you program more expressively. This makes your code easier 
 __Episode 1: Objects and Classes (29 minutes)__
 Just what is a Ruby object, and how can Ruby move you away from class-oriented development and back to object-oriented development? Learn about:
 
-* [ ] the internals of objects,
-* [ ] how classes really aren’t anything special,
-* [ ] what self does, and the two ways it can get changed
-* [ ] the method call mantra: “one to the right, then up,”
-* [ ] singleton methods and ghost classes,
-* [ ] why class methods don’t exist,
-* [ ] how classes get their names,
-* [ ] how the concept of the current class interacts with def
+* [x] the internals of objects,
+* [x] how classes really aren’t anything special,
+* [x] what self does, and the two ways it can get changed
+* [x] the method call mantra: “one to the right, then up,”
+* [x] singleton methods and ghost classes,
+* [x] why class methods don’t exist,
+* [x] how classes get their names,
+* [x] how the concept of the current class interacts with def
 
 __Episode 2: Sharing Behavior (39 minutes)__
 One of the primary goals of good design is to put the right behavior in the right place without duplication. We’ll see three ways Ruby excels at this:
